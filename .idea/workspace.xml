@@ -5,9 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="39dca3ea-dcff-4cb4-9c11-7caa96fb9c2f" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Collections/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Collections/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,29 +39,17 @@
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "main",
     "last_opened_file_path": "C:/Users/DELL/Documents/design_patterns",
-    "onboarding.tips.debug.path": "C:/Users/DELL/Documents/coreJava/src/main/java/org/example/Main.java"
+    "onboarding.tips.debug.path": "C:/Users/DELL/Documents/coreJava/src/main/java/org/example/Main.java",
+    "settings.editor.selected.configurable": "preferences.lookFeel"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Streams.Main">
-    <configuration name="Comparator_practice.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Comparator_practice.Main" />
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Exception_handling.Main" />
       <module name="coreJava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Comparator_practice.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Main1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Comparator_practice.Main1" />
-      <module name="coreJava" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Comparator_practice.*" />
+          <option name="PATTERN" value="Exception_handling.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -110,13 +96,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Unchecked_exceptions" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Exception_handling.Unchecked_exceptions" />
+      <module name="coreJava" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Exception_handling.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.Unchecked_exceptions" />
         <item itemvalue="Application.Streams.Main" />
         <item itemvalue="Application.Practice_comparator" />
         <item itemvalue="Application.Priority_queue" />
-        <item itemvalue="Application.Main1" />
-        <item itemvalue="Application.Comparator_practice.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -148,6 +147,16 @@
           <url>file://$PROJECT_DIR$/src/main/java/Collections/Arraylist.java</url>
           <line>2</line>
           <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/Exception_handling/Unchecked_exceptions.java</url>
+          <line>30</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/Exception_handling/Unchecked_exceptions.java</url>
+          <line>38</line>
+          <option name="timeStamp" value="5" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
