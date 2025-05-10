@@ -4,6 +4,8 @@ import java.util.*;
 
 public class Main {
     public static void main(String[] args){
+
+        //hashmap functions practice
         Map<Integer,String> countryCode=new HashMap<>();
         countryCode.put(1,"India");
         countryCode.put(2,"Australia");
@@ -24,6 +26,8 @@ public class Main {
                 System.out.println("it is a powerful union");
             System.out.println("key is: "+key+",value: "+countryCode.get(key));
         }
+
+
 
 
     }
