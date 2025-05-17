@@ -13,7 +13,7 @@ public class Queue_collection {
         queue.add(20);
    //poll removes element from queue and return head and null if its empty
         //peek return the first element of queue (fifo)
-        //remove does same as poll difference is it just returns exception when queue is empty
+        //remove does same as poll difference its just returns exception when queue is empty
     System.out.println(queue.peek());
     //there is no indexing
 //    for(int i=0;i<queue.size();i++){

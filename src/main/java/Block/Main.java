@@ -21,18 +21,23 @@ Sometimes, a local variable (e.g., inside a method) might have the same name as 
  */
 
 public class Main {
-   static int k=10;
-    public static void main(String[] args){
+   int k=10;
+    public  void main(String[] args){
         int b=20;
+        k=10;
         {
             int a=10;
         }
-        k=30;
-       int  a=30;
+        int k=30;
+        System.out.println(k);
+
+//       int  a=30;
+        int a;
         {
             a=3838;
             b=30;
         }
+        System.out.println(a);
         int i=0;
         for(i=0;i<5;i++){
 

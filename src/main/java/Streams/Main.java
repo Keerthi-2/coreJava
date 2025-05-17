@@ -12,7 +12,7 @@ public class Main {
         Stream<Integer> streams=list.stream();
 //        streams.forEach(n-> System.out.println(n));
 //        streams.forEach(n-> System.out.println(n));
-
+  //streams can be used once
 //        Long count=streams.count();
 //        System.out.println("count of stream is :"+count);
 //        //sorted will sort values

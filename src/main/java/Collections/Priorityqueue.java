@@ -15,7 +15,7 @@ public class Priorityqueue {
         System.out.println(poll_val);
         System.out.println(pq.peek()+"size is"+pq.size());
 
-        PriorityQueue<Integer> maxpq = new PriorityQueue<>(Collections.reverseOrder());
+        Queue<Integer> maxpq = new PriorityQueue<>(Collections.reverseOrder());
         maxpq.add(40);
         maxpq.add(70);
         maxpq.add(60);

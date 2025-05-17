@@ -20,6 +20,8 @@ public class Main {
 
 
         }
+
+
         countryCode.remove(3);
         for(Integer key:countryCode.keySet()){
             if(countryCode.get(key)=="India")
